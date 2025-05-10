@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746877807172,
+  "timestamp": 1746878133241,
   "index": "https://mkozachuk.github.io/pages_test/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "https://mkozachuk.github.io/pages_test/index.html",
-        "https://mkozachuk.github.io/pages_test/main-I3HHJYPI.js",
+        "https://mkozachuk.github.io/pages_test/main-SM7IZNPA.js",
         "https://mkozachuk.github.io/pages_test/polyfills-FFHMD2TL.js",
         "https://mkozachuk.github.io/pages_test/styles-OB47DCEH.css"
       ],
@@ -35,8 +35,8 @@
   "dataGroups": [],
   "hashTable": {
     "https://mkozachuk.github.io/pages_test/Unageo-Regular.ttf": "e1fb8c11d76f9e66c61027c97d2bc23c6586a250",
-    "https://mkozachuk.github.io/pages_test/index.html": "578fc40e45ca6d766ca3a1315afea30ec23db31a",
-    "https://mkozachuk.github.io/pages_test/main-I3HHJYPI.js": "31b73bccf629d911b2f02a33c800c3e9f9809421",
+    "https://mkozachuk.github.io/pages_test/index.html": "7d4194c78f781d2c2c260b7d7af659d1818df580",
+    "https://mkozachuk.github.io/pages_test/main-SM7IZNPA.js": "3b30a05e8b14e88b0e01108ecfeb1c0866ae0992",
     "https://mkozachuk.github.io/pages_test/media/Unageo-Regular-CTTYRMTT.ttf": "e1fb8c11d76f9e66c61027c97d2bc23c6586a250",
     "https://mkozachuk.github.io/pages_test/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "https://mkozachuk.github.io/pages_test/styles-OB47DCEH.css": "815aff7ca01a884d2177018c153dbb5f61b766a9"
