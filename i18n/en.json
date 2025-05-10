@@ -23,6 +23,22 @@
     "button": {
       "addNew": "Add new order"
     },
+    "snack": {
+      "add": {
+        "success": "Order added successfully"
+      },
+      "edit": {
+        "success": "Order edited successfully"
+      }
+    },
+    "confirmation": {
+      "deleteTitle": "Are you sure you want to delete order: {{recordName}} ?",
+      "deleteText": "Order will be removed from your list"
+    },
+    "delete": {
+      "confirm": "Delete order",
+      "reject": "Close"
+    },
     "status": {
       "new": "New",
       "pending": "Pending",
@@ -66,6 +82,22 @@
     "button": {
       "addNew": "Add new client"
     },
+    "confirmation": {
+      "deleteTitle": "Are you sure you want to delete client: {{recordName}} ?",
+      "deleteText": "Client will be removed from your list"
+    },
+    "delete": {
+      "confirm": "Delete client",
+      "reject": "Close"
+    },
+    "snack": {
+      "add": {
+        "success": "Client added successfully"
+      },
+      "edit": {
+        "success": "Client edited successfully"
+      }
+    },
     "label": {
       "name": "Name: ",
       "phone": "Phone number: ",
@@ -97,6 +129,22 @@
     "title": "Products",
     "button": {
       "addNew": "Add new product"
+    },
+    "snack": {
+      "add": {
+        "success": "Product added successfully"
+      },
+      "edit": {
+        "success": "Product edited successfully"
+      }
+    },
+    "confirmation": {
+      "deleteTitle": "Are you sure you want to delete product: {{recordName}} ?",
+      "deleteText": "Product will be removed from your list"
+    },
+    "delete": {
+      "confirm": "Delete product",
+      "reject": "Close"
     },
     "label": {
       "name": "Name: ",
@@ -139,6 +187,9 @@
     "import": "Import data"
   },
   "common": {
+    "text": {
+      "noData": "No data"
+    },
     "location": {
       "dialog": {
         "title": "Choose your location"
@@ -150,7 +201,8 @@
     },
     "language": {
       "pl": "Polski",
-      "ua": "Українська"
+      "ua": "Українська",
+      "en": "English"
     },
     "currency": {
       "pl": "PLN",
