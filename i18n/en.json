@@ -1,0 +1,164 @@
+{
+  "menu": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "orders": "Orders",
+      "clients": "Clients",
+      "products": "Products",
+      "settings": "Settings"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "sells": "Total sell",
+    "orders": "Orders",
+    "clients": "Clients",
+    "products": "Products",
+    "chart": {
+      "title": "Last 7 days income"
+    }
+  },
+  "orders": {
+    "title": "Orders",
+    "button": {
+      "addNew": "Add new order"
+    },
+    "status": {
+      "new": "New",
+      "pending": "Pending",
+      "finished": "Finished"
+    },
+    "label": {
+      "clientName": "Client's name: ",
+      "status": "Order status: ",
+      "product": "Product name: ",
+      "price": "Price: ",
+      "date": "Order date: ",
+      "description": "Order description: "
+    },
+    "add": {
+      "title": "Add new order",
+      "clientName": "Client's name",
+      "status": "Order status",
+      "product": "Product name",
+      "price": "Price",
+      "date": "Order date",
+      "description": "Order description",
+      "button": {
+        "add": "Create"
+      }
+    },
+    "edit": {
+      "title": "Edit order",
+      "clientName": "Client's name",
+      "status": "Order status",
+      "product": "Product name",
+      "price": "Price",
+      "date": "Order date",
+      "description": "Order description",
+      "button": {
+        "edit": "Save"
+      }
+    }
+  },
+  "clients": {
+    "title": "Clients",
+    "button": {
+      "addNew": "Add new client"
+    },
+    "label": {
+      "name": "Name: ",
+      "phone": "Phone number: ",
+      "address": "Address: ",
+      "description": "Notes: "
+    },
+    "add": {
+      "title": "Add client",
+      "name": "Name",
+      "phone": "Phone number",
+      "address": "Address",
+      "description": "Notes",
+      "button": {
+        "edit": "Add client"
+      }
+    },
+    "edit": {
+      "title": "Edit client",
+      "name": "Name",
+      "phone": "Phone number",
+      "address": "Address",
+      "description": "Notes",
+      "button": {
+        "edit": "Save"
+      }
+    }
+  },
+  "products": {
+    "title": "Products",
+    "button": {
+      "addNew": "Add new product"
+    },
+    "label": {
+      "name": "Name: ",
+      "sellPrice": "Sell price: ",
+      "costPrice": "Cost price: ",
+      "existingQuantity": "Stock: ",
+      "description" : "Description: "
+    },
+    "add": {
+      "title": "Add new product",
+      "name": "Name",
+      "sellPrice": "Sell price",
+      "costPrice": "Cost price",
+      "existingQuantity": "Stock",
+      "description" : "Description",
+      "button": {
+        "add": "Add product"
+      }
+    },
+    "edit": {
+      "title": "Edit product",
+      "name": "Name",
+      "sellPrice": "Sell price",
+      "costPrice": "Cost price",
+      "existingQuantity": "Stock",
+      "description" : "Description",
+      "button": {
+        "edit": "Save"
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "country": "Country",
+    "language": "Language",
+    "currency": "Currency"
+  },
+  "backup": {
+    "export": "Export all your data",
+    "import": "Import data"
+  },
+  "common": {
+    "location": {
+      "dialog": {
+        "title": "Choose your location"
+      }
+    },
+    "country": {
+      "pl": "Poland",
+      "ua": "Ukraine"
+    },
+    "language": {
+      "pl": "Polski",
+      "ua": "Українська"
+    },
+    "currency": {
+      "pl": "PLN",
+      "ua": "UAH",
+      "en": "USD"
+    },
+    "button": {
+      "ok": "OK"
+    }
+  }
+}
